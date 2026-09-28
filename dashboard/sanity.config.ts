@@ -6,9 +6,9 @@ import {structure} from './structure'
 
 export default defineConfig({
   name: 'default',
-  title: 'digitera-bootcamp-1',
+  title: 'digitera-bootcamp',
 
-  projectId: 'DIGITERA-PROJECT-ID',
+  projectId: '17t1ro5f',
   dataset: 'production',
 
   plugins: [structureTool({structure}), visionTool()],
